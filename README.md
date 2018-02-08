@@ -1,2 +1,2 @@
 # ING_YNAB
-python script to make ING bank downloads consumable for YNAM
+python script to make ING bank downloads consumable for YNAB
